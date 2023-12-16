@@ -33,6 +33,7 @@ Write the detailed procedure here
 
 
 ## Program:
+
 HALF SUBTRACTER
 ![image](https://github.com/lalitchandran/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/137707725/f504dd5c-58fc-4eed-bb0b-50760f841184)
 FULL SUBTRACTER
@@ -47,6 +48,7 @@ RegisterNumber: 23004048
 ## Output:
 
 ## Truthtable
+
 HALF SUBTRACTER
 ![image](https://github.com/lalitchandran/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/137707725/03ff040b-d95c-4dcc-b91c-c21f185fe423)
 
@@ -64,6 +66,7 @@ FULL SUBTRACTER
 
 
 ## Timing diagram 
+
 HALF SUBTRACTER
 ![image](https://github.com/lalitchandran/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/137707725/5e1589a4-c17b-48eb-ad53-b37befd62053)
 
