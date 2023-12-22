@@ -50,6 +50,7 @@ RegisterNumber: 23004048
 ## Truthtable
 
 HALF SUBTRACTER
+
 ![image](https://github.com/lalitchandran/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/137707725/03ff040b-d95c-4dcc-b91c-c21f185fe423)
 
 FULL SUBTRACTER
