@@ -54,6 +54,7 @@ HALF SUBTRACTER
 ![image](https://github.com/lalitchandran/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/137707725/03ff040b-d95c-4dcc-b91c-c21f185fe423)
 
 FULL SUBTRACTER
+
 ![image](https://github.com/lalitchandran/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/137707725/bbdd0117-d97a-495d-95ab-3ccaf0923c2a)
 
 
